@@ -18,7 +18,8 @@ This infographic highlights how the brain of a child with Down Syndrome differs 
 
 ### 🖼️ Poster Preview
 
-![Down Syndrome Brain Poster](down_syndrome_brain.png)
+<img width="687" height="1024" alt="image" src="https://github.com/user-attachments/assets/ea36d397-e95f-45a6-8a7a-313010b0f294" />
+
 
 ### 🔑 Key Structural & Cognitive Takeaways
 * **Cerebellum (Coordination & Balance):** Typically smaller in size, affecting motor skills, posture, and speech articulation.
@@ -34,7 +35,8 @@ This research-based infographic details the neurodevelopmental, chromosomal, and
 
 ### 🖼️ Poster Preview
 
-![Advanced Maternal Age Poster](maternal_age_risks.png)
+<img width="765" height="1024" alt="image" src="https://github.com/user-attachments/assets/8446eaa5-6fd7-4b8f-9495-d80b87ab7e8e" />
+
 
 ### 🔬 Summary of Key Research Findings
 1. **Chromosomal Errors (Trisomy 21 / Down Syndrome):** Increased rates of meiotic non-disjunction during oocyte maturation.
